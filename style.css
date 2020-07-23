@@ -1,0 +1,10 @@
+.wrapper{
+    width: 50%;
+    margin: 0 auto;
+}
+.wrapper h3{
+    font-family: 'Roboto Slab', serif;
+}
+.wraper p{
+    font-family: 'Source Serif Pro', serif;
+}
